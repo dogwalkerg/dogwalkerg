@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/github/stars/semicons/java_oci_manage.svg?style=flat-square&label=Stars&logo=github"/>
 </p>
 ### 📢 官方交流与反馈
-[![Telegram](https://img.shields.io/badge/TG交流群-arestemple-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/arestemple)
+![Telegram](https://img.shields.io/badge/TG交流群-arestemple-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/arestemple)
 ![Feiyang's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=dogwalkerg&count_private=true&show_icons=true&theme=radical&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogwalkerg&layout=compact&hide=css,scss,shell,html&langs_count=8&show_icons=true&theme=radical)
 <a href="#">
