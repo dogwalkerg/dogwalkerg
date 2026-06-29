@@ -1,5 +1,5 @@
 ### 📢 官方交流与反馈
-[![Telegram](https://img.shields.io/badge/TG交流群-arestemple-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/arestemple)
+[![Telegram](https://img.shields.io/badge/TG交流群-arestemple-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/???)
 # <p align="left">R-Bot⭐</p>
 <p align="left">
   <a href="https://t.me/apchyo"><img src="https://img.shields.io/static/v1?label=%E7%BE%A4%E7%BB%84&message=telegram&color=brightgreen"/></a>
